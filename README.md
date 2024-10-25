@@ -15,9 +15,9 @@ This project models traffic flow under different conditions to study how variati
 
 ## Project Structure
 
-•	models&simulations/: Scripts to run simulations for various scenarios.
-•	visualizations/: Tools to create charts and graphs for analyzing model outputs.
-•	mainPDF/: Main report of this project.
+- models&simulations/: Scripts to run simulations for various scenarios.
+- visualizations/: Tools to create charts and graphs for analyzing model outputs.
+- mainPDF/: Main report of this project.
 
 ## Models Implemented
 
@@ -28,6 +28,6 @@ This project models traffic flow under different conditions to study how variati
 ## Results
 
 Each model produces insights into traffic dynamics under different configurations. Key results include:
-	•	Optimal density levels: Conditions for smooth traffic flow without congestion.
-	•	Driver behavior impacts: How various driver responses affect overall traffic dynamics.
+- Optimal density levels: Conditions for smooth traffic flow without congestion.
+- Driver behavior impacts: How various driver responses affect overall traffic dynamics.
 
