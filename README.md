@@ -8,10 +8,10 @@ This project models traffic flow under different conditions to study how variati
 
 ## Features
 
-•	Implementation of various traffic flow models (e.g., cellular automata, car-following models, PDEs).
-•	Simulations across varying traffic densities and conditions.
-•	Data visualization to analyze flow dynamics, optimal density, and behavioral impacts.
-•	Parameter optimization to align model output with real-world traffic patterns.
+- Implementation of various traffic flow models (e.g., cellular automata, car-following models, PDEs).
+- Simulations across varying traffic densities and conditions.
+- Data visualization to analyze flow dynamics, optimal density, and behavioral impacts.
+- Parameter optimization to align model output with real-world traffic patterns.
 
 ## Project Structure
 
